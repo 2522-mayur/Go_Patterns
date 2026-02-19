@@ -5,6 +5,10 @@ import ()
 func main(){
 	//alternate()
 
-	optimized()
+	//optimized()
+
+	//workerpool()
+
+	alternateEvenOdd()
 
 }
